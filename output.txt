@@ -1,0 +1,2 @@
+Complement: TAAGCTA
+Reverse Complement: ATCGAAT
